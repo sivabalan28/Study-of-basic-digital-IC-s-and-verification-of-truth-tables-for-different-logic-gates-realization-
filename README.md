@@ -85,7 +85,7 @@ Logic symbol & Truthtable
 
 Output:
 
-![Uploading deexp1.1.2.jpg…]()
+![deexp1 1 2](https://user-images.githubusercontent.com/113497347/231694405-7623b4e6-c6be-4644-979e-38775dca3fe0.jpg)
 
 Result:
 
